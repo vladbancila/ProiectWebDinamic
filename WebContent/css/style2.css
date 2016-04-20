@@ -1,0 +1,125 @@
+@CHARSET "UTF-8";
+.imaginelogo {
+	float: left;
+	max-height: 50px;
+}
+
+.imagineSlider {
+	max-height: 400px;
+}
+
+.textSlider {
+	color: #337ab7;
+	text-align: right;
+	font-size: x-large;
+}
+.mesajlogin{
+	text-align: right;
+	font-size: large;
+}
+
+.info {
+	float: right;
+}
+
+.navbar {
+	background: rgb(254, 204, 177); /* Old browsers */
+	background: -moz-linear-gradient(-45deg, rgba(254, 204, 177, 1) 14%,
+		rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1)
+		38%, rgba(234, 85, 7, 1) 45%, rgba(241, 116, 50, 1) 73%,
+		rgba(251, 149, 94, 1) 89%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, rgba(254, 204, 177, 1) 14%,
+		rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1)
+		38%, rgba(234, 85, 7, 1) 45%, rgba(241, 116, 50, 1) 73%,
+		rgba(251, 149, 94, 1) 89%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, rgba(254, 204, 177, 1) 14%,
+		rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1)
+		38%, rgba(234, 85, 7, 1) 45%, rgba(241, 116, 50, 1) 73%,
+		rgba(251, 149, 94, 1) 89%);
+	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feccb1',
+		endColorstr='#fb955e', GradientType=1);
+}
+
+body {
+	background: rgb(254, 204, 177); /* Old browsers */
+	background: -moz-linear-gradient(-45deg, rgba(254, 204, 177, 1) 14%,
+		rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1)
+		38%, rgba(234, 85, 7, 1) 45%, rgba(241, 116, 50, 1) 73%,
+		rgba(251, 149, 94, 1) 89%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, rgba(254, 204, 177, 1) 14%,
+		rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1)
+		38%, rgba(234, 85, 7, 1) 45%, rgba(241, 116, 50, 1) 73%,
+		rgba(251, 149, 94, 1) 89%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, rgba(254, 204, 177, 1) 14%,
+		rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1) 35%, rgba(234, 85, 7, 1)
+		38%, rgba(234, 85, 7, 1) 45%, rgba(241, 116, 50, 1) 73%,
+		rgba(251, 149, 94, 1) 89%);
+	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feccb1',
+		endColorstr='#fb955e', GradientType=1);
+}
+
+h1 {
+	color: #2f48f9;
+	text-align: center;
+	font-size: xx-large;
+}
+
+h2 {
+	color: #2f48f9;
+	text-align: center;
+	font-size: large;
+}
+
+.butonHome {
+	text-align: center;
+}
+.imagineReclama{
+	max-height: 250px;
+}
+.formularlogin{
+	text-align: center;
+}
+
+.imagineStangaLogin{
+	float:left;
+	max-height: 400px;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+.imagineDreaptaLogin{
+	float:right;
+	max-height: 400px;
+	padding-top: 30px;
+	padding-right: 30px;
+}
+.sign_up{
+	color:white;
+	font-weight: bold;
+}
+
+.titluoferta{
+	color:red;
+	font-size: xx-large;
+}
+
+.centruoferta{
+	text-align: center;
+}
+
+.imaginetabeloferta{
+	max-height:25 px;
+}
+.big{
+	font-weight: bold;
+	font-size: large;
+	color:red;
+}
+
+.imagineCos{
+	max-height:50px;
+}
+
+
+
