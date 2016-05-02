@@ -12,7 +12,8 @@
 	text-align: right;
 	font-size: x-large;
 }
-.mesajlogin{
+
+.mesajlogin {
 	text-align: right;
 	font-size: large;
 }
@@ -74,47 +75,51 @@ h2 {
 .butonHome {
 	text-align: center;
 }
-.imagineReclama{
+
+.imagineReclama {
 	max-height: 250px;
 }
-.formularlogin{
+
+.formularlogin {
 	text-align: center;
 }
 
-.imagineStangaLogin{
-	float:left;
+.imagineStangaLogin {
+	float: left;
 	max-height: 400px;
 	padding-top: 30px;
 	padding-left: 30px;
 }
-.imagineDreaptaLogin{
-	float:right;
+
+.imagineDreaptaLogin {
+	float: right;
 	max-height: 400px;
 	padding-top: 30px;
 	padding-right: 30px;
 }
-.sign_up{
-	color:white;
+
+.sign_up {
+	color: white;
 	font-weight: bold;
 }
 
-.titluoferta{
-	color:red;
+.titluoferta {
+	color: red;
 	font-size: xx-large;
 }
 
-.centruoferta{
+.centruoferta {
 	text-align: center;
 }
 
-.imaginetabeloferta{
-	max-height:50 px;
+.imaginetabeloferta {
+	max-height: 50 px;
 }
 
-.big{
+.big {
 	font-weight: bold;
 	font-size: large;
-	color:red;
+	color: red;
 }
 
 .imagine {
@@ -124,15 +129,16 @@ h2 {
 .thumbnail {
 	max-height: 800px;
 }
+
 .imagineLogoCumparatura {
 	max-height: 60px;
 }
-.imagineCos{
-	max-height:90px;
+
+.imagineCos {
+	max-height: 90px;
 }
 
-#map {	
-        width: 700px;
-        height: 500px;
-      }
-
+#map {
+	width: 700px;
+	height: 500px;
+}
